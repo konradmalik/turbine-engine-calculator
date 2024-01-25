@@ -1,3 +1,5 @@
+Warning: this is very out-of-date and was essentially my first ever program that I wrote back in (I think) 2014 or 2013. The "code" is beyond terrible, but it has sentimental value 🙂
+
 # turbine-engine-calculator
 
 http://konradmalik.cba.pl
